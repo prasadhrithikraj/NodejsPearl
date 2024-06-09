@@ -1,0 +1,9 @@
+runs-on               = %%runs-on%%
+name                  = %%name%%
+uses                  = %%uses%%    
+context               = %%context%%
+push                  = %%push%%
+aws-access-key-id     = %%aws-access-key-id%%
+aws-secret-access-key = %%aws-secret-access-key%%
+aws-region            = %%aws-region%%
+run                   = %%run%%
